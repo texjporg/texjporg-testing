@@ -15,6 +15,15 @@ Test files are derived from:
 
 とする。
 
+テスト用の .lvt ファイルの作り方：
+
+  * 早めに `\input regression-test` する（LaTeX では `\input{regression-test}`）
+  * テスト開始は `\START`
+  * 出力テストの場合は `\loggingoutput`
+    * plain で `\bye` ではなく `\end` で終わっているソースでは，その直前に
+      `\eject` の追加も必要
+  * `\OMIT` から `\TIMO` まではテストから除外
+
 標準の .tlg ファイルを作るには，個別のサブディレクトリで
 
 ```
