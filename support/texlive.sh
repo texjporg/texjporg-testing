@@ -5,6 +5,10 @@
 # A minimal current TL is installed adding only the packages that are
 # required
 
+# original version obtained from
+#   https://github.com/latex3/latex3/support/texlive.sh
+# and adjusted for texjporg by Hironobu Yamashita (2019/10/27)
+
 # See if there is a cached version of TL available
 export PATH=/tmp/texlive/bin/x86_64-linux:$PATH
 if ! command -v texlua > /dev/null; then
@@ -94,25 +98,20 @@ tlmgr install   \
   zhmetrics     \
   zhnumber
 
-# For the doc target
-tlmgr install \
-  booktabs    \
-  colortbl    \
-  csquotes    \
-  dvips       \
-  enumitem    \
-  fancyvrb    \
-  hyperref    \
-  listings    \
-  makeindex   \
-  mathpazo    \
-  palatino    \
-  psnfss      \
-  symbol      \
-  times       \
-  underscore  \
-  url         \
-  zapfding
+# More binaries to be installed
+tlmgr install dvipdfmx dvips makeindex
+
+# More packages to be installed, for pLaTeX/upLaTeX
+tlmgr install jsclasses japanese-otf japanese-otf-uptex \
+  ptex-fontmaps platex-tools pbibtex-base
+
+# frequently used in texjporg repos
+tlmgr install geometry \
+  tex-gyre palatino times \
+  newtx newpx txfonts pxfonts boondox fontaxes newtxtt \
+  xypic booktabs enumitem hyperref url pxjahyper \
+  newverbs \
+  lipsum mathtools mdwtools ucs
 
 # Keep no backups (not required, simply makes cache bigger)
 tlmgr option -- autobackup 0
