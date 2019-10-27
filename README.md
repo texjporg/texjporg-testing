@@ -26,6 +26,10 @@ Test files are derived from:
 
 ### 標準の .tlg ファイルを作るには
 
+pTeX のバージョンにより .tlg が変化する可能性もあるが，このリポジトリに置く
+.tlg は **必ず TeX Live subversion にあるバージョン** で作成すること！
+（開発版 pTeX が現在の公式版 pTeX とどう違うのかをはっきりさせるため）
+
 個々のサブディレクトリで
 
 ```

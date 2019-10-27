@@ -10,7 +10,8 @@ module  = ""
 bundles      = { }
 checkbundles =
   {
-    "ptex-base"
+    "ptex-base",
+    "dev-plain"
   }
 
 -- Location of main directory: use Unix-style path separators

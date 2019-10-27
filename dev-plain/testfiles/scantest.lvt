@@ -1,0 +1,90 @@
+%#!eptex
+\input regression-test
+\START
+\loggingoutput
+
+\immediate\openout8=xxfileA.tex\relax
+\immediate\write8{\string\def\string\あああ{^^c5^^bf}}%
+\immediate\closeout8
+\input xxfileA.tex
+\show\あああ % => 現在「顛」開発版「^^c5^^bf」
+
+\immediate\openout8=xxfileAA.tex\relax
+\immediate\write8{\string\def\string\あああ{顛}}%
+\immediate\closeout8
+\input xxfileAA.tex
+\show\あああ % => 現在「顛」開発版「顛」
+
+\immediate\openout8=xxfileAAA.tex\relax
+\immediate\write8{\string\def\string\あああ{^^e9^^a1^^9b}}%
+\immediate\closeout8
+\input xxfileAAA.tex
+\show\あああ
+
+\immediate\openout8=xxfileB.tex\relax
+\immediate\write8{\noexpand\def\noexpand\あああ{^^c5^^bf}}%
+\immediate\closeout8
+\input xxfileB.tex
+\show\あああ % => 現在「顛」開発版「^^c5^^bf」
+
+\immediate\openout8=xxfileBB.tex\relax
+\immediate\write8{\noexpand\def\noexpand\あああ{顛}}%
+\immediate\closeout8
+\input xxfileBB.tex
+\show\あああ % => 現在「顛」開発版「顛」
+
+\immediate\openout8=xxfileBBB.tex\relax
+\immediate\write8{\noexpand\def\noexpand\あああ{^^e9^^a1^^9b}}%
+\immediate\closeout8
+\input xxfileBBB.tex
+\show\あああ
+
+\immediate\openout8=xxfileC.tex\relax
+\immediate\write8{\unexpanded{\def\あああ{^^c5^^bf}}}%
+\immediate\closeout8
+\input xxfileC.tex
+\show\あああ % => 現在「顛」開発版「^^c5^^bf」
+
+\immediate\openout8=xxfileCC.tex\relax
+\immediate\write8{\unexpanded{\def\あああ{顛}}}%
+\immediate\closeout8
+\input xxfileCC.tex
+\show\あああ % => 現在「顛」開発版「顛」
+
+\immediate\openout8=xxfileCCC.tex\relax
+\immediate\write8{\unexpanded{\def\あああ{^^e9^^a1^^9b}}}%
+\immediate\closeout8
+\input xxfileCCC.tex
+\show\あああ
+
+\toks8={\def\あああ{^^c5^^bf}}
+\immediate\openout8=xxfileD.tex\relax
+\immediate\write8{\the\toks8}
+\immediate\closeout8
+\input xxfileD.tex
+\show\あああ % => 現在「顛」開発版「^^c5^^bf」
+
+\toks8={\def\あああ{顛}}
+\immediate\openout8=xxfileDD.tex\relax
+\immediate\write8{\the\toks8}
+\immediate\closeout8
+\input xxfileDD.tex
+\show\あああ % => 現在「顛」開発版「顛」
+
+\toks8={\def\あああ{^^e9^^a1^^9b}}
+\immediate\openout8=xxfileDDD.tex\relax
+\immediate\write8{\the\toks8}
+\immediate\closeout8
+\input xxfileDDD.tex
+\show\あああ
+
+\scantokens{\def\あああ{^^c5^^bf}}
+\show\あああ % => 現在「顛」開発版「顛」
+
+\scantokens{\def\あああ{顛}}
+\show\あああ % => 現在「顛」開発版「顛」
+
+\scantokens{\def\あああ{^^e9^^a1^^9b}}
+\show\あああ
+
+\bye
