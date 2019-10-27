@@ -1,6 +1,9 @@
 # Test files for Japanese TeX Development Community
 
 Preparing a regression test using l3build framework.
+Test files are derived from:
+
+  * ptex-base: https://github.com/texjporg/ptex-base
 
 ## メモ
 
@@ -20,7 +23,7 @@ Preparing a regression test using l3build framework.
 
 とする。これで `sample.lvt` に対して
 `sample.tlg` が作られる。ここで使われるエンジンは変数
-`stdengine` で決まるが，本リポジトリでは build-config.lua において既定を
+`stdengine` で決まるが，本リポジトリでは `build-config.lua` において既定を
 `eptex` に設定している。もし既定エンジンとログが異なる場合は，
 
 ```
@@ -40,7 +43,7 @@ pTeX による変更の一部を（pdfTeX との差分を減らすために）�
     $ eptex sample
 ```
 
-として得た sample.log と，上述の
-l3build の save で得た sample.tlg を比較するのが望ましい。
+として得た `sample.log` と，上述の
+l3build の `save` で得た `sample.tlg` を比較するのが望ましい。
 
 Japanese TeX Development Community
