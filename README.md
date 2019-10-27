@@ -15,7 +15,7 @@ Test files are derived from:
 
 とする。
 
-テスト用の .lvt ファイルの作り方：
+### テスト用の .lvt ファイルの作り方
 
   * 早めに `\input regression-test` する（LaTeX では `\input{regression-test}`）
   * テスト開始は `\START`
@@ -24,7 +24,9 @@ Test files are derived from:
       `\eject` の追加も必要
   * `\OMIT` から `\TIMO` まではテストから除外
 
-標準の .tlg ファイルを作るには，個別のサブディレクトリで
+### 標準の .tlg ファイルを作るには
+
+個々のサブディレクトリで
 
 ```
     $ texlua build.lua save sample
@@ -33,7 +35,8 @@ Test files are derived from:
 とする。これで `sample.lvt` に対して
 `sample.tlg` が作られる。ここで使われるエンジンは変数
 `stdengine` で決まるが，本リポジトリでは `build-config.lua` において既定を
-`eptex` に設定している。もし既定エンジンとログが異なる場合は，
+`eptex` に設定している。もし既定エンジンとログが異なる場合は，それ用の
+.tlg が必要。例えば
 
 ```
     $ texlua build.lua save --engine=euptex sample
@@ -55,4 +58,5 @@ pTeX による変更の一部を（pdfTeX との差分を減らすために）�
 として得た `sample.log` と，上述の
 l3build の `save` で得た `sample.tlg` を比較するのが望ましい。
 
+----
 Japanese TeX Development Community
