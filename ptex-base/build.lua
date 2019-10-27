@@ -21,8 +21,8 @@ checkengines    = checkengines
   or {"eptex", "euptex"}
 checkformat  = "tex"
 
--- In ptex-base testing, stop processing at the first error
-checkopts = "-interaction=batchmode -halt-on-error"
+-- If we want to stop processing at the first error
+-- checkopts = "-interaction=batchmode -halt-on-error"
 
 -- Load the common build code
 dofile(maindir .. "/build-config.lua")
