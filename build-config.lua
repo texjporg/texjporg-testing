@@ -1,5 +1,7 @@
 -- Common settings for texjporg development repo, used by l3build script
 
+stdengine    = stdengine    or "eptex"
+
 checkdeps   = checkdeps   or
   {
 --    maindir .. "/some/subdirectory/of/dependent/package",

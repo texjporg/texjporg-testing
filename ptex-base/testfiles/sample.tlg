@@ -1,0 +1,2987 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(667.20255+0.0)x469.75499, yoko direction
+.\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
+..\glue -22.5
+..\hbox(8.5+0.0)x469.75499, glue set 469.75499fil, yoko direction
+...\vbox(8.5+0.0)x0.0, yoko direction
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\vbox(643.20255+0.0)x469.75499, yoko direction
+..\glue(\topskip) 0.0
+..\vbox(643.20255+0.0)x469.75499, glue set 13.99722fil, yoko direction
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\hbox(597.50787+0.0)x469.75499, glue set 23.92711fil, yoko direction
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\dirbox(597.50787+0.0)x421.90077, yoko direction
+.....\vbox(421.90077+0.0)x597.50787, tate direction
+......\rule(0.4+0.0)x*
+......\hbox(0.0+421.10078)x597.50787, glue set 15.04097fil, tate direction
+.......\rule(*+*)x0.4
+.......\glue 49.79231
+.......\vbox(0.0+421.10078)x230.46732, glue set 0.01123, tate direction
+........\glue 49.79231
+........\hbox(4.124+4.124)x230.46732, glue set 230.46732fill, tate direction
+.........\rule(4.124+4.124)x0.0
+.........\glue 0.0 plus 1.0fill
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\dirbox(4.124+4.124)x230.46732, tate direction
+.........\hbox(230.46732+0.0)x8.24799, glue set - 2.47438fil, yoko direction
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+..........\dirbox(230.46732+0.0)x13.19675, yoko direction
+...........\hbox(6.59837+6.59837)x230.46732, glue set 106.4234fill, tate direction
+............\glue 13.19675
+............\displace 0.0
+............\minii 社
+............\minii 内
+............\minii 結
+............\minii 婚
+............\minii の
+............\minii し
+............\minii か
+............\minii た
+............\glue 0.0 plus 1.0fill
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 230.46732fill, tate direction
+.........\rule(4.124+4.124)x0.0
+.........\glue 0.0 plus 1.0fill
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 58.51517fil, tate direction
+.........\glue 0.0 plus 1.0fil
+.........\displace 0.0
+.........\ninetmin 登
+.........\ninetmin 場
+.........\ninetmin 人
+.........\ninetmin 物
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin 出
+.........\ninetmin 版
+.........\ninetmin 局
+.........\ninetmin の
+.........\ninetmin Ｎ
+.........\ninetmin さ
+.........\ninetmin ん
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin （
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin 経
+.........\ninetmin 験
+.........\ninetmin 者
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin ）
+.........\glue(refer from jfm) 0.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 98.73157fil, tate direction
+.........\glue 0.0 plus 1.0fil
+.........\displace 0.0
+.........\ninetmin イ
+.........\ninetmin ン
+.........\ninetmin タ
+.........\ninetmin ビ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ュ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ア
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin 中
+.........\ninetmin 村
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin 権
+.........\ninetmin 三
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin （
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 以
+.........\ninetmin 下
+.........\ninetmin Ｋ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin ）
+.........\glue(refer from jfm) 0.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 230.46732fill, tate direction
+.........\rule(4.124+4.124)x0.0
+.........\glue 0.0 plus 1.0fill
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 59.67401fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin お
+.........\ninetmin 忙
+.........\ninetmin し
+.........\ninetmin い
+.........\ninetmin と
+.........\ninetmin こ
+.........\ninetmin ろ
+.........\ninetmin あ
+.........\ninetmin り
+.........\ninetmin が
+.........\ninetmin と
+.........\ninetmin う
+.........\ninetmin ご
+.........\ninetmin ざ
+.........\ninetmin い
+.........\ninetmin ま
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin す
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.10278
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\displace 0.0
+.........\ninetmin 今
+.........\ninetmin 日
+.........\ninetmin は
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin に
+.........\ninetmin つ
+.........\ninetmin い
+.........\ninetmin て
+.........\ninetmin お
+.........\ninetmin 話
+.........\ninetmin を
+.........\ninetmin お
+.........\ninetmin 伺
+.........\ninetmin い
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin い
+.........\ninetmin の
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin が
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.19685
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin お
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ま
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin く
+.........\ninetmin も
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin つ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin な
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin も
+.........\ninetmin 聞
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 180.91321fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin い
+.........\ninetmin て
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 3.38443fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin で
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 奥
+.........\ninetmin さ
+.........\ninetmin ん
+.........\ninetmin と
+.........\ninetmin は
+.........\ninetmin い
+.........\ninetmin つ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ど
+.........\ninetmin こ
+.........\ninetmin で
+.........\ninetmin 知
+.........\ninetmin り
+.........\ninetmin 合
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin が
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.23492
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin き
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin か
+.........\ninetmin け
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ▽
+.........\ninetmin ▲
+.........\ninetmin ☆
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin に
+.........\ninetmin 入
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin 年
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin （
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 一
+.........\ninetmin 昨
+.........\ninetmin 年
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin ）
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin の
+.........\ninetmin 暮
+.........\ninetmin れ
+.........\ninetmin の
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.22105
+.........\glue(\leftskip) 19.24432
+.........\ninetmin 忘
+.........\ninetmin 年
+.........\ninetmin 会
+.........\ninetmin で
+.........\ninetmin 会
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin の
+.........\ninetmin と
+.........\ninetmin き
+.........\ninetmin ち
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ょ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin と
+.........\ninetmin だ
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin お
+.........\ninetmin 話
+.........\ninetmin し
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 180.91321fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin た
+.........\ninetmin わ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 46.68411fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\displace 0.0
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin と
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin の
+.........\ninetmin 場
+.........\ninetmin で
+.........\ninetmin い
+.........\ninetmin き
+.........\ninetmin な
+.........\ninetmin り
+.........\ninetmin 誘
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.36395
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin い
+.........\ninetmin や
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 誘
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin の
+.........\ninetmin は
+.........\ninetmin そ
+.........\ninetmin の
+.........\ninetmin と
+.........\ninetmin き
+.........\ninetmin じ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ゃ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin な
+.........\ninetmin く
+.........\ninetmin て
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 次
+.........\ninetmin の
+.........\ninetmin 年
+.........\ninetmin の
+.........\ninetmin ４
+.........\ninetmin 月
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.0268
+.........\glue(\leftskip) 19.24432
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 夕
+.........\ninetmin 刊
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin ▽
+.........\ninetmin ▲
+.........\ninetmin ☆
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin の
+.........\ninetmin バ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ス
+.........\ninetmin デ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ィ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin カ
+.........\ninetmin レ
+.........\ninetmin ン
+.........\ninetmin ダ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 誕
+.........\ninetmin 生
+.........\ninetmin 日
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.85237 plus 0.7113
+........\hbox(4.25+4.124)x230.46732, glue set - 0.40298
+.........\glue(\leftskip) 19.24432
+.........\ninetmin を
+.........\ninetmin 知
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\displace 2.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninerm m
+.........\ninerm a
+.........\ninerm i
+.........\ninerm l
+.........\displace 0.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninetmin を
+.........\ninetmin 出
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin の
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin 返
+.........\ninetmin 事
+.........\ninetmin が
+.........\ninetmin 来
+.........\ninetmin た
+.........\ninetmin わ
+.........\ninetmin け
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 94.31381fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin ほ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ▽
+.........\ninetmin ▲
+.........\ninetmin ☆
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ら
+.........\ninetmin し
+.........\ninetmin い
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.34265
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin そ
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin プ
+.........\ninetmin レ
+.........\ninetmin ゼ
+.........\ninetmin ン
+.........\ninetmin ト
+.........\ninetmin も
+.........\ninetmin 伊
+.........\ninetmin 豆
+.........\ninetmin 屋
+.........\ninetmin で
+.........\ninetmin 買
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin 渡
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin か
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin の
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.26129
+.........\glue(\leftskip) 19.24432
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 誰
+.........\ninetmin か
+.........\ninetmin が
+.........\ninetmin 彼
+.........\ninetmin 女
+.........\ninetmin を
+.........\ninetmin 呼
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin く
+.........\ninetmin れ
+.........\ninetmin て
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin プ
+.........\ninetmin レ
+.........\ninetmin ゼ
+.........\ninetmin ン
+.........\ninetmin ト
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 137.6135fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin を
+.........\ninetmin 渡
+.........\ninetmin し
+.........\ninetmin た
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin わ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.6239
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin そ
+.........\ninetmin れ
+.........\ninetmin が
+.........\ninetmin き
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin か
+.........\ninetmin け
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ま
+.........\ninetmin わ
+.........\ninetmin り
+.........\ninetmin の
+.........\ninetmin 協
+.........\ninetmin 力
+.........\ninetmin も
+.........\ninetmin あ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue 49.79231
+.......\glue 25.60747
+.......\vbox(0.0+421.10078)x230.46732, glue set 0.51953, tate direction
+........\glue 49.79231
+........\glue(\splittopskip) 0.0
+........\hbox(4.124+4.124)x230.46732, glue set 46.68411fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\displace 0.0
+.........\ninetmin で
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin の
+.........\ninetmin と
+.........\ninetmin き
+.........\ninetmin デ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ト
+.........\ninetmin に
+.........\ninetmin 誘
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.05437
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin い
+.........\ninetmin や
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 一
+.........\ninetmin 昨
+.........\ninetmin 年
+.........\ninetmin の
+.........\ninetmin 今
+.........\ninetmin ご
+.........\ninetmin ろ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ゴ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ル
+.........\ninetmin デ
+.........\ninetmin ン
+.........\ninetmin ウ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ィ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ー
+.........\ninetmin ク
+.........\ninetmin な
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 94.31378fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin 車
+.........\ninetmin で
+.........\ninetmin 伊
+.........\ninetmin 豆
+.........\ninetmin の
+.........\ninetmin 川
+.........\ninetmin 奈
+.........\ninetmin に
+.........\ninetmin 行
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin わ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 64.00397fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 日
+.........\ninetmin 頃
+.........\ninetmin の
+.........\ninetmin 連
+.........\ninetmin 絡
+.........\ninetmin は
+.........\ninetmin ど
+.........\ninetmin う
+.........\ninetmin し
+.........\ninetmin て
+.........\ninetmin い
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.85237 plus 0.7113
+........\hbox(4.25+4.124)x230.46732, glue set - 0.36253
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin や
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ぱ
+.........\ninetmin り
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\displace 2.0
+.........\ninerm m
+.........\ninerm a
+.........\ninerm i
+.........\ninerm l
+.........\displace 0.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninetmin と
+.........\displace 2.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninerm t
+.........\ninerm a
+.........\ninerm l
+.........\ninerm k
+.........\displace 0.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninetmin だ
+.........\ninetmin よ
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin の
+.........\ninetmin ２
+.........\ninetmin つ
+.........\ninetmin は
+.........\ninetmin 強
+.........\ninetmin 力
+.........\ninetmin だ
+.........\ninetmin け
+.........\ninetmin ど
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.27875
+.........\glue(\leftskip) 19.24432
+.........\ninetmin こ
+.........\ninetmin れ
+.........\ninetmin だ
+.........\ninetmin け
+.........\ninetmin に
+.........\ninetmin 頼
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ち
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ゃ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin い
+.........\ninetmin け
+.........\ninetmin な
+.........\ninetmin い
+.........\ninetmin わ
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin す
+.........\ninetmin ぐ
+.........\ninetmin ば
+.........\ninetmin れ
+.........\ninetmin る
+.........\ninetmin し
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ふ
+.........\ninetmin れ
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 120.29361fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin 合
+.........\ninetmin い
+.........\ninetmin も
+.........\ninetmin 大
+.........\ninetmin 切
+.........\ninetmin に
+.........\ninetmin し
+.........\ninetmin な
+.........\ninetmin い
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin と
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 98.64377fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin な
+.........\ninetmin る
+.........\ninetmin ほ
+.........\ninetmin ど
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin で
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin 具
+.........\ninetmin 体
+.........\ninetmin 的
+.........\ninetmin に
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.33678
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 朝
+.........\ninetmin は
+.........\ninetmin ド
+.........\ninetmin ト
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ル
+.........\ninetmin コ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ヒ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 帰
+.........\ninetmin り
+.........\ninetmin は
+.........\ninetmin 方
+.........\ninetmin 円
+.........\ninetmin 堂
+.........\ninetmin で
+.........\ninetmin 待
+.........\ninetmin 合
+.........\ninetmin せ
+.........\ninetmin し
+.........\ninetmin た
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin わ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.22105
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\displace 0.0
+.........\ninetmin と
+.........\ninetmin こ
+.........\ninetmin ろ
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 大
+.........\ninetmin 洋
+.........\ninetmin 強
+.........\ninetmin い
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ま
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin く
+.........\ninetmin も
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ど
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin し
+.........\ninetmin ち
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ゃ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin の
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin か
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.34265
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin そ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin と
+.........\ninetmin こ
+.........\ninetmin ろ
+.........\ninetmin で
+.........\ninetmin 弁
+.........\ninetmin 当
+.........\ninetmin 作
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin も
+.........\ninetmin ら
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin り
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin そ
+.........\ninetmin う
+.........\ninetmin で
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.03014
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin な
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin 知
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin る
+.........\ninetmin わ
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\glue(refer from jfm) 8.65994 minus 4.32996
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin そ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin そ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 給
+.........\ninetmin 湯
+.........\ninetmin 室
+.........\ninetmin の
+.........\ninetmin 電
+.........\ninetmin 子
+.........\ninetmin レ
+.........\ninetmin ン
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 51.0141fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin ジ
+.........\ninetmin の
+.........\ninetmin 上
+.........\ninetmin で
+.........\ninetmin 受
+.........\ninetmin け
+.........\ninetmin 取
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin だ
+.........\ninetmin よ
+.........\ninetmin な
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin が
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 167.92328fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin デ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ト
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 128.95358fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin や
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ぱ
+.........\ninetmin り
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 車
+.........\ninetmin だ
+.........\ninetmin よ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.2965
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin は
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin ん
+.........\ninetmin な
+.........\ninetmin こ
+.........\ninetmin ん
+.........\ninetmin な
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 先
+.........\ninetmin 頃
+.........\ninetmin ご
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin な
+.........\ninetmin さ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin で
+.........\ninetmin す
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 64.004fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin が
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 新
+.........\ninetmin 婚
+.........\ninetmin 旅
+.........\ninetmin 行
+.........\ninetmin は
+.........\ninetmin ど
+.........\ninetmin こ
+.........\ninetmin 行
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.9577
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 新
+.........\ninetmin 婚
+.........\ninetmin 旅
+.........\ninetmin 行
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\ninetmin が
+.........\ninetmin ま
+.........\ninetmin た
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin オ
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ス
+.........\ninetmin ト
+.........\ninetmin ラ
+.........\ninetmin リ
+.........\ninetmin ア
+.........\ninetmin な
+.........\ninetmin わ
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\dirbox(0.0+0.0)x5.79999, tate direction
+..........\hbox(5.79999+0.0)x0.0, glue set - 4.62497fil, yoko direction
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+...........\displace 0.0
+...........\ninerm 1
+...........\ninerm 0
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\penalty 10000
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\displace 0.0
+.........\ninetmin 日
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin 間
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 35.11078fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\dirbox(0.0+0.0)x5.79999, tate direction
+..........\hbox(5.79999+0.0)x0.0, glue set - 4.62497fil, yoko direction
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+...........\displace 0.0
+...........\ninerm 1
+...........\ninerm 0
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\penalty 10000
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\displace 0.0
+.........\ninetmin 日
+.........\ninetmin 間
+.........\ninetmin も
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 有
+.........\ninetmin 給
+.........\ninetmin で
+.........\ninetmin も
+.........\ninetmin 取
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue 49.79231
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+.......\vbox(0.0+371.30844)x5.49866, tate direction
+........\glue 49.79231
+........\dirbox(160.75807+160.75806)x5.49866, tate direction
+.........\hbox(4.66553+0.83313)x321.51613, glue set 267.24652fil, yoko direction
+..........\displace 0.0
+..........\mathon
+..........\teni 1
+..........\mathoff
+..........\glue 3.08331 plus 1.54166 minus 1.02777
+..........\displace 0.0
+..........\sixmin 社
+..........\sixmin 内
+..........\sixmin 結
+..........\sixmin 婚
+..........\sixmin の
+..........\sixmin し
+..........\sixmin か
+..........\sixmin た
+..........\glue 0.0 plus 1.0fil
+.......\glue 39.83385
+.......\rule(*+*)x0.4
+......\rule(0.4+0.0)x*
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\glue 8.53581
+...\glue(\lineskip) 0.0
+...\hbox(7.77588+1.38855)x469.75499, glue set 116.07823fill, yoko direction
+....\glue 0.0 plus 1.0fill
+....\displace 0.0
+....\tengt 株
+....\tengt 式
+....\tengt 会
+....\tengt 社
+....\glue 3.33333 plus 1.66666 minus 1.11111
+....\tengt ▽
+....\tengt ▲
+....\tengt ☆
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt ー
+....\glue 3.33333 plus 1.66666 minus 1.11111
+....\tengt 社
+....\tengt 内
+....\tengt 文
+....\tengt 書
+....\glue(refer from jfm) 4.58203 minus 2.291
+....\tengt 『
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt 社
+....\tengt 内
+....\tengt 結
+....\tengt 婚
+....\tengt の
+....\tengt し
+....\tengt か
+....\tengt た
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt 』
+....\glue(refer from jfm) 4.58203 minus 2.291
+....\tengt よ
+....\tengt り
+....\glue 0.0 plus 1.0fill
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fill
+.\glue(\baselineskip) 17.55556
+.\hbox(6.44444+0.0)x469.75499, glue set 232.37749fil, yoko direction
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\displace 0.0
+..\tenrm 1
+..\glue 0.0 plus 1.0fil minus 1.0fil
+Completed box being shipped out [2]
+\vbox(667.20255+0.0)x469.75499, yoko direction
+.\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
+..\glue -22.5
+..\hbox(8.5+0.0)x469.75499, glue set 469.75499fil, yoko direction
+...\vbox(8.5+0.0)x0.0, yoko direction
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\vbox(643.20255+0.0)x469.75499, yoko direction
+..\glue(\topskip) 0.0
+..\vbox(643.20255+0.0)x469.75499, glue set 13.99722fil, yoko direction
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\hbox(597.50787+0.0)x469.75499, glue set 23.92711fil, yoko direction
+....\glue 0.0 plus 1.0fil minus 1.0fil
+....\dirbox(597.50787+0.0)x421.90077, yoko direction
+.....\vbox(421.90077+0.0)x597.50787, tate direction
+......\rule(0.4+0.0)x*
+......\hbox(0.0+421.10078)x597.50787, glue set 15.04097fil, tate direction
+.......\rule(*+*)x0.4
+.......\glue 49.79231
+.......\vbox(0.0+421.10078)x230.46732, glue set 0.58205, tate direction
+........\glue 49.79231
+........\glue(\splittopskip) 0.0
+........\hbox(4.124+4.124)x230.46732, glue set - 0.31667
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin す
+.........\ninetmin る
+.........\ninetmin と
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin 休
+.........\ninetmin 暇
+.........\ninetmin が
+.........\ninetmin ７
+.........\ninetmin 日
+.........\ninetmin 間
+.........\ninetmin も
+.........\ninetmin ら
+.........\ninetmin え
+.........\ninetmin る
+.........\ninetmin ん
+.........\ninetmin だ
+.........\ninetmin よ
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 74.0805fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin れ
+.........\ninetmin と
+.........\ninetmin 祝
+.........\ninetmin 日
+.........\ninetmin な
+.........\ninetmin ん
+.........\ninetmin か
+.........\ninetmin を
+.........\ninetmin 合
+.........\ninetmin わ
+.........\ninetmin せ
+.........\ninetmin て
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\dirbox(0.0+0.0)x5.79999, tate direction
+..........\hbox(5.79999+0.0)x0.0, glue set - 4.62497fil, yoko direction
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+...........\displace 0.0
+...........\ninerm 1
+...........\ninerm 0
+...........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\penalty 10000
+.........\glue 2.88667 plus 0.96227 minus 0.96227
+.........\displace 0.0
+.........\ninetmin 日
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin 間
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.26129
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin 休
+.........\ninetmin 暇
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin い
+.........\ninetmin い
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin と
+.........\ninetmin こ
+.........\ninetmin ろ
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 現
+.........\ninetmin 在
+.........\ninetmin の
+.........\ninetmin お
+.........\ninetmin 住
+.........\ninetmin い
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 102.97375fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 奥
+.........\ninetmin さ
+.........\ninetmin ん
+.........\ninetmin の
+.........\ninetmin 実
+.........\ninetmin 家
+.........\ninetmin だ
+.........\ninetmin そ
+.........\ninetmin う
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 33.69424fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin そ
+.........\ninetmin う
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 生
+.........\ninetmin き
+.........\ninetmin る
+.........\ninetmin マ
+.........\ninetmin ス
+.........\ninetmin オ
+.........\ninetmin さ
+.........\ninetmin ん
+.........\ninetmin な
+.........\ninetmin わ
+.........\ninetmin け
+.........\ninetmin だ
+.........\ninetmin な
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin が
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 33.69418fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin の
+.........\ninetmin 良
+.........\ninetmin い
+.........\ninetmin 点
+.........\ninetmin と
+.........\ninetmin 悪
+.........\ninetmin い
+.........\ninetmin 点
+.........\ninetmin を
+.........\ninetmin 教
+.........\ninetmin え
+.........\ninetmin て
+.........\ninetmin く
+.........\ninetmin だ
+.........\ninetmin さ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin い
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.2347
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin 悪
+.........\ninetmin い
+.........\ninetmin 点
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 悪
+.........\ninetmin い
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin が
+.........\ninetmin で
+.........\ninetmin き
+.........\ninetmin な
+.........\ninetmin い
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 女
+.........\ninetmin の
+.........\ninetmin 子
+.........\ninetmin に
+.........\ninetmin ち
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ょ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin か
+.........\ninetmin い
+.........\ninetmin 出
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 185.24316fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin せ
+.........\ninetmin な
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin い
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 139.538fil, tate direction
+.........\displace 0.0
+.........\ninetmin （
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 外
+.........\ninetmin 野
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin ）
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin し
+.........\ninetmin て
+.........\ninetmin る
+.........\ninetmin し
+.........\ninetmin て
+.........\ninetmin る
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\glue 0.0 plus 1.0fil
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.31053
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin う
+.........\ninetmin る
+.........\ninetmin さ
+.........\ninetmin い
+.........\ninetmin う
+.........\ninetmin る
+.........\ninetmin さ
+.........\ninetmin い
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin あ
+.........\ninetmin と
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 同
+.........\ninetmin じ
+.........\ninetmin 部
+.........\ninetmin 署
+.........\ninetmin 内
+.........\ninetmin で
+.........\ninetmin の
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.27875
+.........\glue(\leftskip) 19.24432
+.........\ninetmin だ
+.........\ninetmin と
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ２
+.........\ninetmin 人
+.........\ninetmin の
+.........\ninetmin ど
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ち
+.........\ninetmin か
+.........\ninetmin が
+.........\ninetmin 異
+.........\ninetmin 動
+.........\ninetmin に
+.........\ninetmin な
+.........\ninetmin る
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin 噂
+.........\ninetmin だ
+.........\ninetmin し
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin れ
+.........\ninetmin か
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 68.33398fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin お
+.........\ninetmin な
+.........\ninetmin じ
+.........\ninetmin 会
+.........\ninetmin 社
+.........\ninetmin だ
+.........\ninetmin と
+.........\ninetmin 給
+.........\ninetmin 料
+.........\ninetmin が
+.........\ninetmin ば
+.........\ninetmin れ
+.........\ninetmin る
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 115.96362fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin い
+.........\ninetmin い
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin は
+.........\ninetmin な
+.........\ninetmin ん
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.26129
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin う
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin ん
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 飯
+.........\ninetmin に
+.........\ninetmin 困
+.........\ninetmin ら
+.........\ninetmin な
+.........\ninetmin い
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 朝
+.........\ninetmin 一
+.........\ninetmin 緒
+.........\ninetmin に
+.........\ninetmin 来
+.........\ninetmin れ
+.........\ninetmin る
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin あ
+.........\ninetmin ん
+.........\ninetmin ま
+.........\ninetmin り
+.........\ninetmin い
+.........\ninetmin い
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 146.27344fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin で
+.........\ninetmin も
+.........\ninetmin な
+.........\ninetmin い
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin か
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.25014
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\displace 0.0
+.........\ninetmin あ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 会
+.........\ninetmin 社
+.........\ninetmin か
+.........\ninetmin ら
+.........\ninetmin の
+.........\ninetmin ご
+.........\ninetmin 祝
+.........\ninetmin 儀
+.........\ninetmin が
+.........\ninetmin ２
+.........\ninetmin 人
+.........\ninetmin 分
+.........\ninetmin 出
+.........\ninetmin る
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\ninetmin が
+.........\ninetmin 大
+.........\ninetmin き
+.........\ninetmin い
+.........\ninetmin ん
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 137.61353fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin だ
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ま
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin た
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin く
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.31053
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin せ
+.........\ninetmin こ
+.........\ninetmin い
+.........\ninetmin で
+.........\ninetmin す
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin で
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\ninetmin か
+.........\ninetmin ら
+.........\ninetmin 社
+.........\ninetmin 内
+.........\ninetmin 結
+.........\ninetmin 婚
+.........\ninetmin し
+.........\ninetmin て
+.........\ninetmin み
+.........\ninetmin よ
+.........\ninetmin う
+.........\ninetmin か
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.3659
+.........\glue(\leftskip) 19.24432
+.........\ninetmin な
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin な
+.........\ninetmin ん
+.........\ninetmin て
+.........\ninetmin 思
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin て
+.........\ninetmin る
+.........\ninetmin 人
+.........\ninetmin に
+.........\ninetmin な
+.........\ninetmin に
+.........\ninetmin か
+.........\ninetmin ア
+.........\ninetmin ド
+.........\ninetmin バ
+.........\ninetmin イ
+.........\ninetmin ス
+.........\ninetmin を
+.........\ninetmin お
+.........\ninetmin 願
+.........\ninetmin い
+.........\ninetmin し
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin ま
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin す
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.2076
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin ま
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin き
+.........\ninetmin ち
+.........\ninetmin ん
+.........\ninetmin と
+.........\ninetmin 手
+.........\ninetmin 順
+.........\ninetmin を
+.........\ninetmin ふ
+.........\ninetmin ん
+.........\ninetmin で
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 焦
+.........\ninetmin ら
+.........\ninetmin な
+.........\ninetmin い
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin れ
+.........\ninetmin か
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.26129
+.........\glue(\leftskip) 19.24432
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 同
+.........\ninetmin じ
+.........\ninetmin 部
+.........\ninetmin 署
+.........\ninetmin は
+.........\ninetmin 避
+.........\ninetmin け
+.........\ninetmin る
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 上
+.........\ninetmin 下
+.........\ninetmin の
+.........\ninetmin フ
+.........\ninetmin ロ
+.........\ninetmin ア
+.........\ninetmin は
+.........\ninetmin 狙
+.........\ninetmin い
+.........\ninetmin 目
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin そ
+.........\ninetmin れ
+.........\glue(\rightskip) 0.0
+........\glue 49.79231
+.......\glue 25.60747
+.......\vbox(0.0+421.10078)x230.46732, glue set 156.77817fill, tate direction
+........\glue 49.79231
+........\glue(\splittopskip) 0.0
+........\hbox(4.124+4.124)x230.46732, glue set - 0.31667
+.........\glue(\leftskip) 19.24432
+.........\ninetmin か
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 秘
+.........\ninetmin 密
+.........\ninetmin は
+.........\ninetmin 保
+.........\ninetmin て
+.........\ninetmin な
+.........\ninetmin い
+.........\ninetmin か
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 聞
+.........\ninetmin か
+.........\ninetmin れ
+.........\ninetmin な
+.........\ninetmin い
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin は
+.........\ninetmin 喋
+.........\ninetmin ら
+.........\ninetmin な
+.........\ninetmin い
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 172.25327fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin こ
+.........\ninetmin と
+.........\ninetmin だ
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.85237 plus 0.7113
+........\hbox(4.25+4.124)x230.46732, glue set 1.99191fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 2.0
+.........\ninerm m
+.........\ninerm a
+.........\ninerm i
+.........\ninerm l
+.........\displace 0.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninetmin や
+.........\displace 2.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninerm t
+.........\ninerm a
+.........\ninerm l
+.........\ninerm k
+.........\displace 0.0
+.........\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+.........\ninetmin は
+.........\ninetmin 秘
+.........\ninetmin 密
+.........\ninetmin 保
+.........\ninetmin 持
+.........\ninetmin と
+.........\ninetmin い
+.........\ninetmin う
+.........\ninetmin 点
+.........\ninetmin で
+.........\ninetmin は
+.........\ninetmin ま
+.........\ninetmin ず
+.........\ninetmin そ
+.........\ninetmin う
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 59.67404fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin あ
+.........\ninetmin と
+.........\ninetmin は
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 車
+.........\ninetmin で
+.........\ninetmin の
+.........\ninetmin 激
+.........\ninetmin し
+.........\ninetmin い
+.........\ninetmin 走
+.........\ninetmin り
+.........\ninetmin は
+.........\ninetmin 禁
+.........\ninetmin 物
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.31053
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin な
+.........\ninetmin る
+.........\ninetmin ほ
+.........\ninetmin ど
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin で
+.........\ninetmin は
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin 今
+.........\ninetmin 日
+.........\ninetmin は
+.........\ninetmin ほ
+.........\ninetmin ん
+.........\ninetmin と
+.........\ninetmin に
+.........\ninetmin あ
+.........\ninetmin り
+.........\ninetmin が
+.........\ninetmin と
+.........\ninetmin う
+.........\ninetmin ご
+.........\ninetmin ざ
+.........\ninetmin い
+.........\ninetmin ま
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin し
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin た
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.50966
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin で
+.........\ninetmin も
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin こ
+.........\ninetmin れ
+.........\ninetmin ほ
+.........\ninetmin ん
+.........\ninetmin と
+.........\ninetmin に
+.........\ninetmin 夕
+.........\ninetmin 刊
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin ▽
+.........\ninetmin ▲
+.........\ninetmin ☆
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\ninetmin に
+.........\ninetmin 載
+.........\ninetmin る
+.........\ninetmin わ
+.........\ninetmin け
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ？
+.........\glue(refer from jfm) 8.65994 minus 4.32996
+.........\glue 3.08331 plus 1.54166 minus 1.02777
+.........\ninetmin 俺
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 0.3659
+.........\glue(\leftskip) 19.24432
+.........\ninetmin 知
+.........\ninetmin ら
+.........\ninetmin な
+.........\ninetmin い
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin ど
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin っ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin か
+.........\ninetmin の
+.........\ninetmin ア
+.........\ninetmin ホ
+.........\ninetmin が
+.........\ninetmin 真
+.........\ninetmin 似
+.........\ninetmin し
+.........\ninetmin て
+.........\ninetmin 失
+.........\ninetmin 敗
+.........\ninetmin し
+.........\ninetmin た
+.........\ninetmin ら
+.........\ninetmin 教
+.........\ninetmin え
+.........\glue(\rightskip) 0.0
+........\penalty 150
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 189.57315fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin て
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ね
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set - 0.5412
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｋ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 0.0
+.........\ninetmin え
+.........\penalty 10000(for kinsoku)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin ー
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\glue(refer from jfm) 4.32996 plus 1.64954 minus 4.32996
+.........\ninetmin で
+.........\ninetmin も
+.........\ninetmin ち
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ゃ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ん
+.........\ninetmin と
+.........\ninetmin Ｔ
+.........\ninetmin さ
+.........\ninetmin ん
+.........\ninetmin の
+.........\ninetmin チ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ェ
+.........\penalty 150(for kinsoku)
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ッ
+.........\glue(refer from jfm) 0.96652 minus 0.96652
+.........\ninetmin ク
+.........\ninetmin 入
+.........\ninetmin れ
+.........\ninetmin と
+.........\ninetmin き
+.........\ninetmin ま
+.........\ninetmin す
+.........\ninetmin か
+.........\ninetmin ら
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 、
+.........\glue(\rightskip) 0.0
+........\penalty 300
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 163.59332fil
+.........\glue(\leftskip) 19.24432
+.........\ninetmin 安
+.........\ninetmin 心
+.........\ninetmin で
+.........\ninetmin す
+.........\penalty 500(for \jcharwidowpenalty)
+.........\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+.........\ninetmin よ
+.........\penalty 10000(for kinsoku)
+.........\glue(refer from jfm) 0.0
+.........\ninetmin 。
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue(\parskip) 0.0 plus 1.0
+........\glue(\baselineskip) 5.97838 plus 0.7113
+........\hbox(4.124+4.124)x230.46732, glue set 199.55638fil
+.........\glue(\leftskip) 19.24432
+.........\hbox(0.0+0.0)x0.0
+.........\hbox(4.124+4.124)x0.0, glue set 10.58438fil, tate direction
+..........\kern -19.24432
+..........\displace 0.0
+..........\ninetmin Ｎ
+..........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\displace 2.0
+.........\mathon
+.........\hbox(4.44444+0.0)x11.66661
+..........\tensy ^^A
+..........\glue(\thinmuskip) 1.66663
+..........\tensy ^^A
+..........\glue(\thinmuskip) 1.66663
+..........\tensy ^^A
+.........\mathoff
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0 plus 1.0fil
+.........\glue(\rightskip) 0.0
+........\glue 0.0 plus 1.0fill
+........\glue 49.79231
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+.......\vbox(0.0+371.30844)x5.49866, tate direction
+........\glue 49.79231
+........\dirbox(160.75807+160.75806)x5.49866, tate direction
+.........\hbox(4.66553+0.83313)x321.51613, glue set 267.24652fil, yoko direction
+..........\glue 0.0 plus 1.0fil
+..........\displace 0.0
+..........\sixmin 社
+..........\sixmin 内
+..........\sixmin 結
+..........\sixmin 婚
+..........\sixmin の
+..........\sixmin し
+..........\sixmin か
+..........\sixmin た
+..........\glue 3.08331 plus 1.54166 minus 1.02777
+..........\mathon
+..........\teni 2
+..........\mathoff
+.......\glue 39.83385
+.......\rule(*+*)x0.4
+......\rule(0.4+0.0)x*
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\glue 8.53581
+...\glue(\lineskip) 0.0
+...\hbox(7.77588+1.38855)x469.75499, glue set 116.07823fill, yoko direction
+....\glue 0.0 plus 1.0fill
+....\displace 0.0
+....\tengt 株
+....\tengt 式
+....\tengt 会
+....\tengt 社
+....\glue 3.33333 plus 1.66666 minus 1.11111
+....\tengt ▽
+....\tengt ▲
+....\tengt ☆
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt ー
+....\glue 3.33333 plus 1.66666 minus 1.11111
+....\tengt 社
+....\tengt 内
+....\tengt 文
+....\tengt 書
+....\glue(refer from jfm) 4.58203 minus 2.291
+....\tengt 『
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt 社
+....\tengt 内
+....\tengt 結
+....\tengt 婚
+....\tengt の
+....\tengt し
+....\tengt か
+....\tengt た
+....\penalty 10000(for kinsoku)
+....\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+....\tengt 』
+....\glue(refer from jfm) 4.58203 minus 2.291
+....\tengt よ
+....\tengt り
+....\glue 0.0 plus 1.0fill
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fill
+.\glue(\baselineskip) 17.55556
+.\hbox(6.44444+0.0)x469.75499, glue set 232.37749fil, yoko direction
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\displace 0.0
+..\tenrm 2
+..\glue 0.0 plus 1.0fil minus 1.0fil

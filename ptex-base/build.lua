@@ -1,10 +1,10 @@
 #!/usr/bin/env texlua
 
--- Build script for contrib packages
+-- Build script for ptex-base packages
 
 -- Identify the bundle and module
 -- Just filler as this is purely a location for tests
-module = "contrib"
+module = "ptex-base"
 bundle = ""
 
 -- Location of main directory: use Unix-style path separators
@@ -17,7 +17,11 @@ checkdeps   =
   }
 checksearch = true
 
--- In contrib testing, stop processing at the first error
+checkengines    = checkengines
+  or {"eptex", "euptex"}
+checkformat  = "tex"
+
+-- In ptex-base testing, stop processing at the first error
 checkopts = "-interaction=batchmode -halt-on-error"
 
 -- Load the common build code
