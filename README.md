@@ -5,6 +5,11 @@ Test files are derived from:
 
   * ptex-base: https://github.com/texjporg/ptex-base
 
+Also, there are some sandbox directories:
+
+  * dev-latex: Test directory ready for LaTeX (pLaTeX/upLaTeX)
+  * dev-plain: Test directory ready for plain (e-pTeX/e-upTeX)
+
 ## メモ
 
 テストを実行するには，トップディレクトリで
@@ -29,6 +34,7 @@ Test files are derived from:
 pTeX のバージョンにより .tlg が変化する可能性もあるが，このリポジトリに置く
 .tlg は **必ず TeX Live subversion にあるバージョン** で作成すること！
 （開発版 pTeX が現在の公式版 pTeX とどう違うのかをはっきりさせるため）
+ただし `dev-latex` と `dev-plain` は sandbox として，何でもアリとする。
 
 個々のサブディレクトリで
 
