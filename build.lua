@@ -11,7 +11,8 @@ bundles      = { }
 checkbundles =
   {
     "ptex-base",
-    "dev-plain"
+    "dev-plain",
+    "dev-latex"
   }
 
 -- Location of main directory: use Unix-style path separators
