@@ -87,4 +87,13 @@
 \scantokens{\def\あああ{^^e9^^a1^^9b}}
 \show\あああ
 
+% related to platex/#86
+\toks8={\def\あああ{ſ.^^c3^^9f.^^c5^^bf}}
+\immediate\openout8=xxfileE.tex\relax
+\immediate\write8{\the\toks8}
+\immediate\closeout8
+\input xxfileE.tex
+\show\あああ % => TL19「顛.^^@^^9f.顛.」開発版「^^c5^^bf,^^c3^^9f.^^c5^^bf.」
+
+
 \bye

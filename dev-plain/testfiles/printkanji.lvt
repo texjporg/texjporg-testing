@@ -1,10 +1,11 @@
-%& -translate-file=cp227.tcx
-
 % eptex
 \input regression-test
-\START
-\loggingoutput
 
+\catcode`\@=11
+\count@=128
+\loop\ifnum\count@<256
+  \catcode\count@=11 \advance\count@ by1
+\repeat
 \font\x=ec-lmtt10 \x
 \immediate\openout1=\jobname.out
 \def\MSG#1{%
@@ -13,7 +14,11 @@
   \immediate\write1{#1}%
 }
 
+\START
+\loggingoutput
+
 %========
+% MEANING.
 \def\A{^^c5^^bf ſ 顛 }
 \MSG{\A}
 \show\A
@@ -26,24 +31,27 @@
 \show\B
 
 %========
-\def\あ{hoge}
-\message{^^J}
+% CSNAME.
+\def\顛{T}\def\あ{T}
 \def\TEST#1#2{%
-  \expandafter\def\csname#2\endcsname{piyo}
+  \expandafter\def\csname#2\endcsname{F}
   \par\toks0={#2}
-  \expandafter\string\csname #1\endcsname => \csname #1\endcsname,\par
-  \expandafter\string\csname #2\endcsname => \csname #2\endcsname,\par
-  \expandafter\string\csname \the\toks0\endcsname => \csname \the\toks0\endcsname.
+  \expandafter\string\csname #1\endcsname>\csname #1\endcsname,\par
+  \expandafter\string\csname #2\endcsname>\csname #2\endcsname,\par
+  \expandafter\string\csname \the\toks0\endcsname>\csname \the\toks0\endcsname.
   \MSG{%
-    \expandafter\string\csname #1\endcsname => \csname #1\endcsname,
-    \expandafter\string\csname #2\endcsname => \csname #2\endcsname.
-    \expandafter\string\csname \the\toks0\endcsname => \csname \the\toks0\endcsname.
+    \expandafter\string\csname #1\endcsname>\csname #1\endcsname,
+    \expandafter\string\csname #2\endcsname>\csname #2\endcsname.
+    \expandafter\string\csname \the\toks0\endcsname>\csname \the\toks0\endcsname.
   }%
 }
 \ifx\ucs\undefined
-  \TEST{あ}{^^a4^^a2}
+  \TEST{顛}{^^c5^^bf}
+  \TEST{顛}{ſ}
+  [\顛][\^^c5^^bf][\ſ]
 \else
   \TEST{あ}{^^e3^^81^^82}
+  [\あ][\^^e3^^81^^82]
 \fi
 
 

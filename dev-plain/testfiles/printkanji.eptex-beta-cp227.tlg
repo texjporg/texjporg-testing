@@ -1,0 +1,177 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+{MSG ſ ſ 顛 }
+{TOT ſ ſ 顛 }
+> \A=macro:
+->ſ ſ 顛 .
+l. ...\show\A
+{MSG macro:->macro:->ſ ſ 顛 }
+{TOT macro:->macro:->ſ ſ 顛 }
+> \B=macro:
+->macro:->ſ ſ 顛 .
+l. ...\show\B
+{MSG \顛>T, \ſ>F. \ſ>F. }
+{TOT \顛>T, \ſ>F. \ſ>F. }
+{MSG \顛>T, \ſ>F. \ſ>F. }
+{TOT \顛>T, \ſ>F. \ſ>F. }
+Completed box being shipped out [1]
+\vbox(667.20255+0.0)x469.75499
+.\vbox(0.0+0.0)x469.75499, glue set 14.0fil
+..\glue -22.5
+..\hbox(8.5+0.0)x469.75499, glue set 469.75499fil
+...\vbox(8.5+0.0)x0.0
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\vbox(643.20255+0.0)x469.75499, glue set 548.36922fill
+..\glue(\topskip) 2.22412
+..\hbox(7.77588+1.38855)x469.75499, glue set 324.63316fil
+...\hbox(0.0+0.0)x20.0
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\x �
+...\x �
+...\glue 5.24998
+...\x �
+...\x �
+...\penalty 500(for \jcharwidowpenalty)
+...\glue 5.24998
+...\tenmin 顛
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.83557
+..\hbox(7.77588+1.38855)x469.75499, glue set 361.38306fil
+...\hbox(0.0+0.0)x20.0
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\x �
+...\x �
+...\glue 5.24998
+...\x �
+...\x �
+...\penalty 500(for \jcharwidowpenalty)
+...\glue 5.24998
+...\tenmin 顛
+...\glue 5.24998
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.83557
+..\hbox(7.77588+1.39)x469.75499, glue set 419.13289fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\tenmin 顛
+...\x >
+...\x T
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+1.39)x469.75499, glue set 418.25508fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\x �
+...\x �
+...\x >
+...\x F
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+0.83)x469.75499, glue set 407.75511fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\x �
+...\x �
+...\x >
+...\x F
+...\x .
+...\glue 5.24998
+...\glue 5.24998
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 3.39412
+..\hbox(7.77588+1.39)x469.75499, glue set 419.13289fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\tenmin 顛
+...\x >
+...\x T
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+1.39)x469.75499, glue set 418.25508fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\x �
+...\x �
+...\x >
+...\x F
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+0.83333)x469.75499, glue set 360.50525fil
+...\hbox(0.0+0.0)x20.0
+...\x \
+...\x �
+...\x �
+...\x >
+...\x F
+...\x .
+...\glue 5.24998
+...\glue 5.24998
+...\x [
+...\x T
+...\x ]
+...\x [
+...\x F
+...\x ]
+...\x [
+...\x F
+...\x ]
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue 0.0 plus 1.0fill
+.\glue(\baselineskip) 17.55556
+.\hbox(6.44444+0.0)x469.75499, glue set 232.37749fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenrm 1
+..\glue 0.0 plus 1.0fil minus 1.0fil

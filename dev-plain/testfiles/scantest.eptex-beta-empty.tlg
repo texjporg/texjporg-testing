@@ -2,7 +2,7 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 (xxfileA.tex)
 > \あああ=macro:
-->顛.
+->^^c5^^bf.
 l. ...\show\あああ
                   % => 現在「顛」開発版「^^c5^^bf」
 (xxfileAA.tex)
@@ -12,11 +12,11 @@ l. ...\show\あああ
                   % => 現在「顛」開発版「顛」
 (xxfileAAA.tex)
 > \あああ=macro:
-->蕁^^9b.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileB.tex)
 > \あああ=macro:
-->顛.
+->^^c5^^bf.
 l. ...\show\あああ
                   % => 現在「顛」開発版「^^c5^^bf」
 (xxfileBB.tex)
@@ -26,11 +26,11 @@ l. ...\show\あああ
                   % => 現在「顛」開発版「顛」
 (xxfileBBB.tex)
 > \あああ=macro:
-->蕁^^9b.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileC.tex)
 > \あああ=macro:
-->顛.
+->^^c5^^bf.
 l. ...\show\あああ
                   % => 現在「顛」開発版「^^c5^^bf」
 (xxfileCC.tex)
@@ -40,11 +40,11 @@ l. ...\show\あああ
                   % => 現在「顛」開発版「顛」
 (xxfileCCC.tex)
 > \あああ=macro:
-->蕁^^9b.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileD.tex)
 > \あああ=macro:
-->顛.
+->^^c5^^bf.
 l. ...\show\あああ
                   % => 現在「顛」開発版「^^c5^^bf」
 (xxfileDD.tex)
@@ -54,7 +54,7 @@ l. ...\show\あああ
                   % => 現在「顛」開発版「顛」
 (xxfileDDD.tex)
 > \あああ=macro:
-->蕁^^9b.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 > \あああ=macro:
 ->顛.
@@ -69,6 +69,6 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileE.tex)
 > \あああ=macro:
-->顛.^^@^^9f.顛.
+->^^c5^^bf.^^c3^^9f.^^c5^^bf.
 l. ...\show\あああ
                   % => TL19「顛.^^@^^9f.顛.」開発版「^^c5^^bf,^^c3^^9f.^^c5^...

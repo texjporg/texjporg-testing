@@ -1,0 +1,29 @@
+% eptex
+\input regression-test
+
+\catcode`\@=11
+\count@=128
+\loop\ifnum\count@<256
+  \catcode\count@=11 \advance\count@ by1
+\repeat
+\font\x=ec-lmtt10 \x
+\immediate\openout1=\jobname.out
+\def\MSG#1{%
+  \message{\string{MSG #1\string}}%
+  \immediate\write17{\string{TOT #1\string}}%
+  \immediate\write1{#1}%
+}
+
+\START
+\loggingoutput
+
+\immediate\openout1=test-^^c5^^bf^^c3^^9f顛ſ.out
+\immediate\write1{\message{HOGE}}
+\immediate\closeout1
+\input test-^^c5^^bf^^c3^^9f顛ſ.out
+
+\nonstopmode
+\input ^^80^顛^^c5^^bf^^c3^^9f.tex
+
+
+\bye
