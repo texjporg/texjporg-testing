@@ -1,0 +1,50 @@
+%& -translate-file=cp227.tcx
+
+% eptex
+\input regression-test
+\START
+\loggingoutput
+
+\font\x=ec-lmtt10 \x
+\immediate\openout1=\jobname.out
+\def\MSG#1{%
+  \message{\string{MSG #1\string}}%
+  \immediate\write17{\string{TOT #1\string}}%
+  \immediate\write1{#1}%
+}
+
+%========
+\def\A{^^c5^^bf ſ 顛 }
+\MSG{\A}
+\show\A
+
+\edef\B{\meaning\A}
+\meaning\B
+
+\B
+\MSG{\meaning\B}
+\show\B
+
+%========
+\def\あ{hoge}
+\message{^^J}
+\def\TEST#1#2{%
+  \expandafter\def\csname#2\endcsname{piyo}
+  \par\toks0={#2}
+  \expandafter\string\csname #1\endcsname => \csname #1\endcsname,\par
+  \expandafter\string\csname #2\endcsname => \csname #2\endcsname,\par
+  \expandafter\string\csname \the\toks0\endcsname => \csname \the\toks0\endcsname.
+  \MSG{%
+    \expandafter\string\csname #1\endcsname => \csname #1\endcsname,
+    \expandafter\string\csname #2\endcsname => \csname #2\endcsname.
+    \expandafter\string\csname \the\toks0\endcsname => \csname \the\toks0\endcsname.
+  }%
+}
+\ifx\ucs\undefined
+  \TEST{あ}{^^a4^^a2}
+\else
+  \TEST{あ}{^^e3^^81^^82}
+\fi
+
+
+\bye
