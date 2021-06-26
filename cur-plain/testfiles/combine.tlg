@@ -1,0 +1,28 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(667.20255+0.0)x469.75499, yoko direction
+.\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
+..\glue -22.5
+..\hbox(8.5+0.0)x469.75499, glue set 469.75499fil, yoko direction
+...\vbox(8.5+0.0)x0.0, yoko direction
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\vbox(643.20255+0.0)x469.75499, glue set 631.814fill, yoko direction
+..\glue(\topskip) 2.22412
+..\hbox(7.77588+1.38855)x469.75499, glue set 420.8885fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\tenmin ぱ
+...\tenmin ば
+...\tenmin は
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue 0.0 plus 1.0fill
+.\glue(\baselineskip) 17.55556
+.\hbox(6.44444+0.0)x469.75499, glue set 232.37749fil, yoko direction
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\displace 0.0
+..\tenrm 1
+..\glue 0.0 plus 1.0fil minus 1.0fil

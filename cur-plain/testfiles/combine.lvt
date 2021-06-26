@@ -1,0 +1,9 @@
+% eptex
+\input regression-test
+
+\START
+\loggingoutput
+
+ぱばは
+
+\bye

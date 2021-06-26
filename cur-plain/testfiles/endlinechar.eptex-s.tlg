@@ -1,0 +1,79 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+! Undefined control sequence.
+l. ...7a\綽
+          ^81^^82b\^^e3^^81^^82
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+! Undefined control sequence.
+l. ...7a\綽^81^^82b\綽
+                     ^81^^82
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+Completed box being shipped out [1]
+\vbox(643.20255+0.0)x469.75499, glue set 607.25858fill, yoko direction
+.\glue(\topskip) 2.22412
+.\hbox(7.77588+1.38855)x469.75499, glue set 450.13527fil
+..\hbox(0.0+0.0)x0.0
+..\displace 0.0
+..\x 1
+..\x a
+..\glue(\xkanjiskip) 0.0
+..\tenmin イ
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 2.83557
+.\hbox(7.77588+1.38855)x469.75499, glue set 450.13527fil
+..\hbox(0.0+0.0)x0.0
+..\displace 0.0
+..\x 2
+..\x a
+..\glue(\xkanjiskip) 0.0
+..\tenmin ア
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 2.04768
+.\hbox(8.56377+1.94397)x469.75499, glue set 346.2871fil
+..\hbox(0.0+0.0)x0.0
+..\displace 0.0
+..\x 3
+..\x a
+..\glue(\xkanjiskip) 0.0
+..\tenmin イ
+..\glue(\xkanjiskip) 0.0
+..\x 4
+..\x a
+..\glue(\xkanjiskip) 0.0
+..\tenmin ア
+..\glue(\xkanjiskip) 0.0
+..\x 5
+..\x a
+..\penalty 10000(for kinsoku)
+..\tenmin ，
+..\glue(refer from jfm) 6.08551 minus 2.291
+..\x 6
+..\x a
+..\glue(\xkanjiskip) 0.0
+..\tenmin あ
+..\glue(\xkanjiskip) 0.0
+..\x 7
+..\x a
+..\x � 
+..\x � 
+..\x b
+..\x � 
+..\x � 
+..\penalty 10000
+..\glue(\parfillskip) 0.0 plus 1.0fil
+..\glue(\rightskip) 0.0
+.\glue 0.0 plus 1.0fill

@@ -1,0 +1,297 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+13 32
+! Missing number, treated as zero.
+<to be read again> 
+                   ^^^
+l. ...\message{\number^^^
+                        5e5e^^5e^^5e5e \ %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+0^^^5e5e^^^5e5e \  çˆ ç†•l Å¿ Å¿
+Completed box being shipped out [1]
+\vbox(667.20255+0.0)x469.75499, yoko direction
+.\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
+..\glue -22.5
+..\hbox(8.5+0.0)x469.75499, glue set 469.75499fil, yoko direction
+...\vbox(8.5+0.0)x0.0, yoko direction
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\vbox(643.20255+0.0)x469.75499, glue set 582.70255fill, yoko direction
+..\glue(\topskip) 0.79501
+..\hbox(9.20499+2.5)x469.75499, glue set 197.81213fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x p
+...\x T
+...\kern-0.83334
+...\x e
+...\x X
+...\x -
+...\discretionary
+...\x p
+...\x 3
+...\x .
+...\x 1
+...\x .
+...\x 4
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x b
+...\x u
+...\x g
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x (
+...\x 1
+...\x )
+...\x :
+...\glue 4.44444 plus 3.33331 minus 0.55556
+...\x a
+...\x ‚ 
+...\x b
+...\x b
+...\x ‚ 
+...\x c
+...\x c
+...\x ‚ 
+...\x d
+...\x d
+...\x d
+...\x ‚ 
+...\x e
+...\x e
+...\x ‚ 
+...\x f
+...\x ‚ 
+...\x a
+...\x à 
+...\x ¡
+...\x à 
+...\x ¢
+...\x à 
+...\x £
+...\x à 
+...\x ¤
+...\x à 
+...\x ¥
+...\x à 
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 0.50002
+..\hbox(8.99998+2.5)x469.75499, glue set 282.50539fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x p
+...\x T
+...\kern-0.83334
+...\x e
+...\x X
+...\x -
+...\discretionary
+...\x p
+...\x 3
+...\x .
+...\x 1
+...\x .
+...\x 4
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x b
+...\x u
+...\x g
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x (
+...\x 3
+...\x a
+...\x )
+...\x :
+...\glue 4.44444 plus 3.33331 minus 0.55556
+...\x [
+...\x à 
+...\x ¡
+...\x ]
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\penalty 500(for \jcharwidowpenalty)
+...\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+...\y çˆ
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 0.50002
+..\hbox(8.99998+2.5)x469.75499, glue set 269.36107fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x p
+...\x T
+...\kern-0.83334
+...\x e
+...\x X
+...\x -
+...\discretionary
+...\x p
+...\x 3
+...\x .
+...\x 1
+...\x .
+...\x 4
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x b
+...\x u
+...\x g
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x (
+...\x 3
+...\x b
+...\x )
+...\x :
+...\glue 4.44444 plus 3.33331 minus 0.55556
+...\x [
+...\x à 
+...\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+...\y äºº
+...\penalty 10000(for kinsoku)
+...\x ]
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\penalty 500(for \jcharwidowpenalty)
+...\glue(\kanjiskip) 0.0 plus 0.4 minus 0.4
+...\y ç†•
+...\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
+...\x l
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 0.72
+..\hbox(8.78+2.5)x469.75499, glue set 236.39423fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x p
+...\x T
+...\kern-0.83334
+...\x e
+...\x X
+...\x -
+...\discretionary
+...\x p
+...\x 3
+...\x .
+...\x 1
+...\x .
+...\x 4
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x b
+...\x u
+...\x g
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x (
+...\x 3
+...\x c
+...\x )
+...\x :
+...\glue 4.44444 plus 3.33331 minus 0.55556
+...\x [
+...\x Å
+...\x ¿
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x Å
+...\x ¿
+...\x ]
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\x Å
+...\x ¿
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x Å
+...\x ¿
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 0.29501
+..\hbox(9.20499+2.5)x469.75499, glue set 242.72737fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x p
+...\x T
+...\kern-0.83334
+...\x e
+...\x X
+...\x -
+...\discretionary
+...\x p
+...\x 3
+...\x .
+...\x 1
+...\x .
+...\x 4
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x b
+...\x u
+...\x g
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x (
+...\x 4
+...\x )
+...\x :
+...\glue 4.44444 plus 3.33331 minus 0.55556
+...\x [
+...\x €
+...\x ]
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x [
+...\x €
+...\x ]
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x [
+...\x m
+...\x a
+...\x c
+...\x r
+...\x o
+...\x :
+...\x -
+...\discretionary
+...\x >
+...\x t
+...\x e
+...\x s
+...\x t
+...\x ]
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\x \
+...\x €
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue 0.0 plus 1.0fill
+.\glue(\baselineskip) 17.55556
+.\hbox(6.44444+0.0)x469.75499, glue set 232.37749fil, yoko direction
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\displace 0.0
+..\tenrm 1
+..\glue 0.0 plus 1.0fil minus 1.0fil

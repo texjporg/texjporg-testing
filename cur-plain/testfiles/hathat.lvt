@@ -1,0 +1,72 @@
+% eptex
+\input regression-test
+
+\START
+\loggingoutput
+
+% -------------------------
+% TeX82 との互換性チェック
+\message{\number^^5e^5e^5e^ \
+}% => 13（改行の文字コード）
+\message{\number^^5e^5e^5e^ \ %
+}% => 32
+\message{\number^^5e^^5e5e^^5e^^5e5e \ %
+}% => ! Missing number, treated as zero.（0x5eは「^」の文字コード）
+
+\ifx\kanjiskip\undefined\expandafter\endinput\fi
+
+% 以下は pTeX のチェック
+% (*)を付けた行は，過去にアスキーが修正したバグ
+\font\x=ec-lmr10\x
+\jfont\y=rml\y
+\tfont\z=rmlv\z
+
+% -------------------------
+% pTeX-p3.1.4 で修正されたバグ(1)
+% ptex: 行末記号を漢字の第1バイトに当たる文字にした場合、行の次の文字
+%   と共に漢字にしようとしてしまうのを修正。
+pTeX-p3.1.4 bug (1):
+{\endlinechar="82
+a
+bb
+cc
+ddd
+ee
+f
+}% => 内部コードSJISではバグに当たり "aＦbbＯccＯdddＥeeｂfｂ" だった→今は欧文文字(*)
+{\endlinechar="E0
+a
+^^a1
+^^a2
+^^a3
+^^a4
+^^a5
+}% => 内部コードEUCでもSJISでもバグに当たった→今は欧文文字(*)
+
+% -------------------------
+% pTeX-p3.1.4 で修正されたバグ(3)
+% ptex: ^^形式で入力された文字コードが漢字の第1バイトに当たる場合、
+%   次の文字と共に漢字にしようとしてしまうのを修正。
+pTeX-p3.1.4 bug (3a):
+[^^e0^^a1]% => EUCではOK。SJISでは漢字0xe05e（濘）になり次の^で数式エラー→今は欧文文字(*)
+\message{^^e0^^a1}% => なぜか漢字0xe0a1（SJIS=爍とEUC=燹）になる？
+\def\A{^^e0^^a1}\meaning\A\par % => なぜか漢字0xe0a1（SJIS=爍とEUC=燹）になる？
+pTeX-p3.1.4 bug (3b):
+[^^e0人]% => 冒頭から漢字でデコードされていた（SJIS=琅とEUC=珞査）→今は欧文文字(*)
+\message{^^e0人}% => なぜか冒頭から漢字でデコードされる（SJIS=琅とEUC=珞査）？
+\def\A{^^e0人}\meaning\A\par % => なぜか冒頭から漢字でデコードされる（SJIS=琅とEUC=珞査）？
+pTeX-p3.1.4 bug (3c):
+[^^c5^^bf ſ]% => もともとOK
+\message{^^c5^^bf ſ}% => SJISでは半角カナだった→今は欧文文字(*)。EUCでは前者もなぜか漢字0xc5bf（顛）になる？
+\def\A{^^c5^^bf ſ}\meaning\A\par % => SJISでは半角カナだった→今は欧文文字(*)。EUCでは前者もなぜか漢字0xc5bf（顛）になる？
+
+% -------------------------
+% pTeX-p3.1.4 で修正されたバグ(4)
+% ptex: \string で扱う文字の漢字判定を厳密化。
+pTeX-p3.1.4 bug (4):
+[^^80] % => 文字コード0x80の単独の文字トークン
+[\string ^^80] % => エラーになっていた(*)
+\def\^^80{test}[\meaning\^^80] % => 文字コード0x80の単独の文字を名称とするコントロールシンボル
+\string\^^80 % => エラーになっていた(*)
+
+\bye

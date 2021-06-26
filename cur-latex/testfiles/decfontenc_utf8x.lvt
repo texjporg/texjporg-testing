@@ -1,0 +1,13 @@
+% eptex
+\input regression-test
+
+\documentclass{article}
+\usepackage[utf8x]{inputenc}
+\usepackage[LY1]{fontenc}
+\begin{document}
+
+La lingvo {\TeX} estas danĝera, ne alproksimiĝu!
+
+\START
+\loggingoutput
+\end{document}
