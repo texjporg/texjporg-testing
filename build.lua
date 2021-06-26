@@ -11,6 +11,9 @@ bundles      = { }
 checkbundles =
   {
     "ptex-base",
+    "cur-plain",
+    "cur-latex",
+    -- dev-* are sandbox: some tests may fail, execute at last
     "dev-plain",
     "dev-latex"
   }

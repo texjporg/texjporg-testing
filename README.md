@@ -4,6 +4,8 @@ Preparing a regression test using l3build framework.
 Test files are derived from:
 
   * ptex-base: https://github.com/texjporg/ptex-base
+  * cur-plain: Current plain (u)pTeX behavior
+  * cur-latex: Current (u)pLaTeX behavior
 
 Also, there are some sandbox directories:
 
@@ -12,7 +14,8 @@ Also, there are some sandbox directories:
 
 ## メモ
 
-テストを実行するには，トップディレクトリで
+テストを実行するには，トップディレクトリにある fmtutil.cnf を
+TEXMF ツリーに配置した後で
 
 ```
     $ texlua build.lua check

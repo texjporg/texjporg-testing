@@ -1,0 +1,11 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+(test-ſ^^df顛ſ.out HOGE)
+! I can't find file `�^顛ſ^^df.tex'.
+l. ...\input ^^80^顛^^c5^^bf^^c3^^9f.tex
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name
+! Emergency stop.
+l. ...\input ^^80^顛^^c5^^bf^^c3^^9f.tex
+*** (job aborted, file error in nonstop mode)
+No pages of output.

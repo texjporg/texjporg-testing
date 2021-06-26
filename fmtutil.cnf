@@ -1,0 +1,31 @@
+# special formats for texjporg
+#   format-name engine-name language-def [options] ini-file
+
+### for cur-plain
+
+# eptex: plain
+eptex-e eptex language.def -kanji-internal=euc *eptex.ini
+eptex-s eptex language.def -kanji-internal=sjis *eptex.ini
+
+# euptex: plain
+euptex-e euptex language.def -kanji-internal=euc *eptex.ini
+euptex-s euptex language.def -kanji-internal=sjis *eptex.ini
+euptex-u euptex language.def *euptex.ini
+
+### for cur-latex
+
+# eptex: latex
+platex-e eptex language.dat -kanji-internal=euc *platex.ini
+platex-s eptex language.dat -kanji-internal=sjis *platex.ini
+
+# euptex: latex
+uplatex-e euptex language.dat -kanji-internal=euc *platex.ini
+uplatex-s euptex language.dat -kanji-internal=sjis *platex.ini
+uplatex-u euptex language.dat *uplatex.ini
+
+### for dev-plain (requires "eptex-beta" and "euptex-beta" binary)
+
+eptex-beta-empty eptex-beta language.def -translate-file=empty.tcx *eptex.ini
+eptex-beta-cp227 eptex-beta language.def -translate-file=cp227.tcx *eptex.ini
+euptex-beta-empty euptex-beta language.def -translate-file=empty.tcx *euptex.ini
+euptex-beta-cp227 euptex-beta language.def -translate-file=cp227.tcx *euptex.ini

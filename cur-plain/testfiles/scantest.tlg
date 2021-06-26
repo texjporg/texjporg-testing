@@ -1,0 +1,63 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+(xxfileA.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileAA.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileAAA.tex)
+> \あああ=macro:
+->蕁^^9b.
+l. ...\show\あああ
+(xxfileB.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileBB.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileBBB.tex)
+> \あああ=macro:
+->蕁^^9b.
+l. ...\show\あああ
+(xxfileC.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileCC.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileCCC.tex)
+> \あああ=macro:
+->蕁^^9b.
+l. ...\show\あああ
+(xxfileD.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileDD.tex)
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+(xxfileDDD.tex)
+> \あああ=macro:
+->蕁^^9b.
+l. ...\show\あああ
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+> \あああ=macro:
+->顛.
+l. ...\show\あああ
+> \あああ=macro:
+->蕁^^9b.
+l. ...\show\あああ
+(xxfileE.tex)
+> \あああ=macro:
+->顛.�^^9f.顛.
+l. ...\show\あああ
