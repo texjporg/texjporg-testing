@@ -10,8 +10,10 @@ l. ...\show\A
 > \B=macro:
 ->macro:->Å¿ Å¿ é¡› .
 l. ...\show\B
-{MSG \ã‚>T, \ç¸º‚>F. \ç¸º‚>F. }
-{TOT \ã‚>T, \ç¸º‚>F. \ç¸º‚>F. }
+{MSG \é¡›>T, \Å¿>F. \Å¿>F. }
+{TOT \é¡›>T, \Å¿>F. \Å¿>F. }
+{MSG \é¡›>T, \Å¿>F. \Å¿>F. }
+{TOT \é¡›>T, \Å¿>F. \Å¿>F. }
 Completed box being shipped out [1]
 \vbox(667.20255+0.0)x469.75499, yoko direction
 .\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
@@ -20,7 +22,7 @@ Completed box being shipped out [1]
 ...\vbox(8.5+0.0)x0.0, yoko direction
 ...\glue 0.0 plus 1.0fil
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-.\vbox(643.20255+0.0)x469.75499, glue set 583.814fill, yoko direction
+.\vbox(643.20255+0.0)x469.75499, glue set 548.36922fill, yoko direction
 ..\glue(\topskip) 2.22412
 ..\hbox(7.77588+1.38855)x469.75499, glue set 324.63316fil
 ...\hbox(0.0+0.0)x20.0
@@ -86,7 +88,7 @@ Completed box being shipped out [1]
 ...\hbox(0.0+0.0)x20.0
 ...\displace 0.0
 ...\x \
-...\tenmin ã‚
+...\tenmin é¡›
 ...\x >
 ...\x T
 ...\x ,
@@ -94,14 +96,13 @@ Completed box being shipped out [1]
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
-..\glue(\baselineskip) 2.66
-..\hbox(7.95+1.39)x469.75499, glue set 411.47737fil
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+1.39)x469.75499, glue set 418.25508fil
 ...\hbox(0.0+0.0)x20.0
 ...\displace 0.0
 ...\x \
-...\tenmin ç¸º
-...\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
-...\x ‚ 
+...\x Å
+...\x ¿
 ...\x >
 ...\x F
 ...\x ,
@@ -109,14 +110,56 @@ Completed box being shipped out [1]
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
-..\glue(\baselineskip) 2.66
-..\hbox(7.95+1.38855)x469.75499, glue set 369.4775fil
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+0.83)x469.75499, glue set 407.75511fil
 ...\hbox(0.0+0.0)x20.0
 ...\displace 0.0
 ...\x \
-...\tenmin ç¸º
-...\glue(\xkanjiskip) 2.40553 plus 1.0 minus 1.0
-...\x ‚ 
+...\x Å
+...\x ¿
+...\x >
+...\x F
+...\x .
+...\glue 5.24998
+...\glue 5.24998
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 3.39412
+..\hbox(7.77588+1.39)x469.75499, glue set 419.13289fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x \
+...\tenmin é¡›
+...\x >
+...\x T
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+1.39)x469.75499, glue set 418.25508fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x \
+...\x Å
+...\x ¿
+...\x >
+...\x F
+...\x ,
+...\penalty 10000
+...\glue(\parfillskip) 0.0 plus 1.0fil
+...\glue(\rightskip) 0.0
+..\glue(\parskip) 0.0 plus 1.0
+..\glue(\baselineskip) 2.97502
+..\hbox(7.63498+0.83333)x469.75499, glue set 360.50525fil
+...\hbox(0.0+0.0)x20.0
+...\displace 0.0
+...\x \
+...\x Å
+...\x ¿
 ...\x >
 ...\x F
 ...\x .
@@ -124,6 +167,9 @@ Completed box being shipped out [1]
 ...\glue 5.24998
 ...\x [
 ...\x T
+...\x ]
+...\x [
+...\x F
 ...\x ]
 ...\x [
 ...\x F

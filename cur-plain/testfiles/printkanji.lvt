@@ -45,13 +45,13 @@
     \expandafter\string\csname \the\toks0\endcsname>\csname \the\toks0\endcsname.
   }%
 }
-\ifx\ucs\undefined
+\ifnum\jis"2121="3000\relax
+  \TEST{あ}{^^e3^^81^^82}
+  [\あ][\^^e3^^81^^82]
+\else
   \TEST{顛}{^^c5^^bf}
   \TEST{顛}{ſ}
   [\顛][\^^c5^^bf][\ſ]
-\else
-  \TEST{あ}{^^e3^^81^^82}
-  [\あ][\^^e3^^81^^82]
 \fi
 
 
