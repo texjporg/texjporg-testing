@@ -8,14 +8,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Å^^@
+l. ...\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Å^^@
+l. ...\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -24,51 +24,52 @@ and I'll forget about whatever was undefined.
 > \q=undefined.
 l. ...\show\q
 ! Undefined control sequence.
-l. ...\Åh
+l. ...\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Åh
+l. ...\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Å 
-        %
+l. ...\^^c5
+           %
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Å2
+l. ...\^^c5
+          2
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\Å2
+l. ...\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\È\^^c5w
+l. ...\^^c8\^^c5
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 ! Undefined control sequence.
-l. ...\É^^c9\Å 
-           % ^^c9^^c9 = é°­
+l. ...\^^c9^^c9\^^c5
+                    % ^^c9^^c9 = é°­
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
