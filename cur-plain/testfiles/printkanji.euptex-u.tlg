@@ -1,17 +1,17 @@
 This is a generated file for the l3build validation system.
 Don't change this file in any respect.
-{MSG ſ ſ 顛 }
-{TOT ſ ſ 顛 }
+{MSG ^^c5^^bf ^^c5^^bf 顛 }
+{TOT ^^c5^^bf ^^c5^^bf 顛 }
 > \A=macro:
-->ſ ſ 顛 .
+->^^c5^^bf ^^c5^^bf 顛 .
 l. ...\show\A
-{MSG macro:->macro:->ſ ſ 顛 }
-{TOT macro:->macro:->ſ ſ 顛 }
+{MSG macro:->macro:->^^c5^^bf ^^c5^^bf 顛 }
+{TOT macro:->macro:->^^c5^^bf ^^c5^^bf 顛 }
 > \B=macro:
-->macro:->ſ ſ 顛 .
+->macro:->^^c5^^bf ^^c5^^bf 顛 .
 l. ...\show\B
-{MSG \あ>F, \あ>F. \あ>F. }
-{TOT \あ>F, \あ>F. \あ>F. }
+{MSG \あ>T, \^^e3^^81^^82>F. \^^e3^^81^^82>F. }
+{TOT \あ>T, \^^e3^^81^^82>F. \^^e3^^81^^82>F. }
 Completed box being shipped out [1]
 \vbox(667.20255+0.0)x469.75499, yoko direction
 .\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
@@ -20,7 +20,7 @@ Completed box being shipped out [1]
 ...\vbox(8.5+0.0)x0.0, yoko direction
 ...\glue 0.0 plus 1.0fil
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-.\vbox(643.20255+0.0)x469.75499, glue set 584.00255fill, yoko direction
+.\vbox(643.20255+0.0)x469.75499, glue set 583.17255fill, yoko direction
 ..\glue(\topskip) 1.20001
 ..\hbox(8.79999+1.2)x469.75499, glue set 324.25533fil
 ...\hbox(0.0+0.0)x20.0
@@ -43,11 +43,11 @@ Completed box being shipped out [1]
 ...\x -
 ...\discretionary
 ...\x >
-...\x � 
-...\x �
+...\x ^^c5
+...\x ^^bf
 ...\glue 5.24998
-...\x � 
-...\x �
+...\x ^^c5
+...\x ^^bf
 ...\penalty 500(for \jcharwidowpenalty)
 ...\glue 5.24998
 ...\tenmin 顛
@@ -68,11 +68,11 @@ Completed box being shipped out [1]
 ...\x -
 ...\discretionary
 ...\x >
-...\x � 
-...\x �
+...\x ^^c5
+...\x ^^bf
 ...\glue 5.24998
-...\x � 
-...\x �
+...\x ^^c5
+...\x ^^bf
 ...\penalty 500(for \jcharwidowpenalty)
 ...\glue 5.24998
 ...\tenmin 顛
@@ -88,18 +88,20 @@ Completed box being shipped out [1]
 ...\x \
 ...\tenmin あ
 ...\x >
-...\x F
+...\x T
 ...\x ,
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
-..\glue(\baselineskip) 1.81001
-..\hbox(8.79999+1.39)x469.75499, glue set 418.75505fil
+..\glue(\baselineskip) 2.66
+..\hbox(7.95+2.03)x469.75499, glue set 413.0051fil
 ...\hbox(0.0+0.0)x20.0
 ...\displace 0.0
 ...\x \
-...\tenmin あ
+...\x ^^e3
+...\x ^^81
+...\x ^^82
 ...\x >
 ...\x F
 ...\x ,
@@ -107,19 +109,21 @@ Completed box being shipped out [1]
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
-..\glue(\baselineskip) 1.81001
-..\hbox(8.79999+1.2)x469.75499, glue set 376.75517fil
+..\glue(\baselineskip) 2.02
+..\hbox(7.95+2.03)x469.75499, glue set 371.00522fil
 ...\hbox(0.0+0.0)x20.0
 ...\displace 0.0
 ...\x \
-...\tenmin あ
+...\x ^^e3
+...\x ^^81
+...\x ^^82
 ...\x >
 ...\x F
 ...\x .
 ...\glue 5.24998
 ...\glue 5.24998
 ...\x [
-...\x F
+...\x T
 ...\x ]
 ...\x [
 ...\x F

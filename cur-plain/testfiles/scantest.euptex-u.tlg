@@ -2,7 +2,7 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 (xxfileA.tex)
 > \あああ=macro:
-->ſ.
+->^^c5^^bf.
 l. ...\show\あああ
 (xxfileAA.tex)
 > \あああ=macro:
@@ -10,11 +10,11 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileAAA.tex)
 > \あああ=macro:
-->顛.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileB.tex)
 > \あああ=macro:
-->ſ.
+->^^c5^^bf.
 l. ...\show\あああ
 (xxfileBB.tex)
 > \あああ=macro:
@@ -22,11 +22,11 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileBBB.tex)
 > \あああ=macro:
-->顛.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileC.tex)
 > \あああ=macro:
-->ſ.
+->^^c5^^bf.
 l. ...\show\あああ
 (xxfileCC.tex)
 > \あああ=macro:
@@ -34,11 +34,11 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileCCC.tex)
 > \あああ=macro:
-->顛.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 (xxfileD.tex)
 > \あああ=macro:
-->ſ.
+->^^c5^^bf.
 l. ...\show\あああ
 (xxfileDD.tex)
 > \あああ=macro:
@@ -46,10 +46,10 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileDDD.tex)
 > \あああ=macro:
-->顛.
+->^^e9^^a1^^9b.
 l. ...\show\あああ
 > \あああ=macro:
-->ſ.
+->^^c5^^bf.
 l. ...\show\あああ
 > \あああ=macro:
 ->顛.
@@ -59,5 +59,5 @@ l. ...\show\あああ
 l. ...\show\あああ
 (xxfileE.tex)
 > \あああ=macro:
-->ſ.^^df.ſ.
+->^^c5^^bf.^^c3^^9f.^^c5^^bf.
 l. ...\show\あああ

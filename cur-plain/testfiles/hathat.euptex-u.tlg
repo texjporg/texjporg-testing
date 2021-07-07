@@ -9,7 +9,7 @@ l. ...\message{\number^^^
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
-0^^^5e5e^^^5e5e \  à¡ ^^e0äºº Å¿ Å¿
+0^^^5e5e^^^5e5e \  ^^e0^^a1 ^^e0äºº ^^c5^^bf ^^c5^^bf
 Completed box being shipped out [1]
 \vbox(667.20255+0.0)x469.75499, yoko direction
 .\vbox(0.0+0.0)x469.75499, glue set 14.0fil, yoko direction
@@ -47,34 +47,34 @@ Completed box being shipped out [1]
 ...\x :
 ...\glue 4.44444 plus 3.33331 minus 0.55556
 ...\x a
-...\x ‚
+...\x ^^82
 ...\x b
 ...\x b
-...\x ‚
+...\x ^^82
 ...\x c
 ...\x c
-...\x ‚
+...\x ^^82
 ...\x d
 ...\x d
 ...\x d
-...\x ‚
+...\x ^^82
 ...\x e
 ...\x e
-...\x ‚
+...\x ^^82
 ...\x f
-...\x ‚
+...\x ^^82
 ...\x a
-...\x à  
-...\x ¡
-...\x à  
-...\x ¢
-...\x à  
-...\x £
-...\x à  
-...\x ¤
-...\x à  
-...\x ¥
-...\x à  
+...\x ^^e0
+...\x ^^a1
+...\x ^^e0
+...\x ^^a2
+...\x ^^e0
+...\x ^^a3
+...\x ^^e0
+...\x ^^a4
+...\x ^^e0
+...\x ^^a5
+...\x ^^e0
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
@@ -108,8 +108,8 @@ Completed box being shipped out [1]
 ...\x :
 ...\glue 4.44444 plus 3.33331 minus 0.55556
 ...\x [
-...\x à  
-...\x ¡
+...\x ^^e0
+...\x ^^a1
 ...\x ]
 ...\x m
 ...\x a
@@ -120,8 +120,8 @@ Completed box being shipped out [1]
 ...\x -
 ...\discretionary
 ...\x >
-...\x à  
-...\x ¡
+...\x ^^e0
+...\x ^^a1
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
@@ -155,7 +155,7 @@ Completed box being shipped out [1]
 ...\x :
 ...\glue 4.44444 plus 3.33331 minus 0.55556
 ...\x [
-...\x à  
+...\x ^^e0
 ...\glue(\xkanjiskip) 2.5 plus 1.0 minus 1.0
 ...\y äºº
 ...\penalty 10000(for kinsoku)
@@ -169,7 +169,7 @@ Completed box being shipped out [1]
 ...\x -
 ...\discretionary
 ...\x >
-...\x à  
+...\x ^^e0
 ...\penalty 500(for \jcharwidowpenalty)
 ...\glue(\xkanjiskip) 2.5 plus 1.0 minus 1.0
 ...\y äºº
@@ -206,11 +206,11 @@ Completed box being shipped out [1]
 ...\x :
 ...\glue 4.44444 plus 3.33331 minus 0.55556
 ...\x [
-...\x Å 
-...\x ¿
+...\x ^^c5
+...\x ^^bf
 ...\glue 3.33333 plus 1.66666 minus 1.11111
-...\x Å 
-...\x ¿
+...\x ^^c5
+...\x ^^bf
 ...\x ]
 ...\x m
 ...\x a
@@ -221,11 +221,11 @@ Completed box being shipped out [1]
 ...\x -
 ...\discretionary
 ...\x >
-...\x Å 
-...\x ¿
+...\x ^^c5
+...\x ^^bf
 ...\glue 3.33333 plus 1.66666 minus 1.11111
-...\x Å 
-...\x ¿
+...\x ^^c5
+...\x ^^bf
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
@@ -258,11 +258,11 @@ Completed box being shipped out [1]
 ...\x :
 ...\glue 4.44444 plus 3.33331 minus 0.55556
 ...\x [
-...\x €
+...\x ^^80
 ...\x ]
 ...\glue 3.33333 plus 1.66666 minus 1.11111
 ...\x [
-...\x €
+...\x ^^80
 ...\x ]
 ...\glue 3.33333 plus 1.66666 minus 1.11111
 ...\x [
@@ -282,7 +282,7 @@ Completed box being shipped out [1]
 ...\x ]
 ...\glue 3.33333 plus 1.66666 minus 1.11111
 ...\x \
-...\x €
+...\x ^^80
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0

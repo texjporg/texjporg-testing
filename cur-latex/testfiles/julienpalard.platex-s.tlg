@@ -1,6 +1,6 @@
 This is a generated file for the l3build validation system.
 Don't change this file in any respect.
-! Package inputenc Error: Unicode character ſ (U+017F)
+! Package inputenc Error: Unicode character ^^c5^^bf (U+017F)
 (inputenc)                not set up for use with LaTeX.
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
